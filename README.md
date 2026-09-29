@@ -112,7 +112,7 @@ The agent helps them:
 
 ### 🚀 Try DevPortfolio Agent
 
-**[Open the Live Agent]https://infra.smartlylabs.ai/build?agentId=cmu2dehtg00060agmwo22u3gh**
+**[Open the Live Agent]https://infra.smartlylabs.ai/agents/cmu2dehtg00060agmwo22u3gh**
 
 
 
