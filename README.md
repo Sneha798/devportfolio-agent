@@ -112,9 +112,9 @@ The agent helps them:
 
 ### 🚀 Try DevPortfolio Agent
 
-**[Open the Live Agent](YOUR_PUBLIC_AGENT_LINK)**
+**[Open the Live Agent]https://infra.smartlylabs.ai/build?agentId=cmu2dehtg00060agmwo22u3gh**
 
-> Replace `YOUR_PUBLIC_AGENT_LINK` with the public URL of the deployed agent.
+> Replace https://infra.smartlylabs.ai/build?agentId=cmu2dehtg00060agmwo22u3gh with the public URL of the deployed agent.
 
 ---
 
