@@ -114,7 +114,7 @@ The agent helps them:
 
 **[Open the Live Agent]https://infra.smartlylabs.ai/build?agentId=cmu2dehtg00060agmwo22u3gh**
 
-> Replace https://infra.smartlylabs.ai/build?agentId=cmu2dehtg00060agmwo22u3gh with the public URL of the deployed agent.
+
 
 ---
 
