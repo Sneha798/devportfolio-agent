@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🚀 OpenPilot Agent
 
 > An AI-powered open-source contribution assistant that helps developers discover GitHub opportunities, understand issues, plan contributions, prepare Pull Request drafts, validate their work, and build professional portfolio material.
